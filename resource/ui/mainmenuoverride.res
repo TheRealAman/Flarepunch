@@ -584,47 +584,38 @@
 	
 	"Background"
 	{
-		"fillcolor"		"MainBackground"
 		
 		if_halloween_0
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_halloween_1
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_halloween_2
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_halloween_3
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_halloween_4
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_fullmoon
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_christmas
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 		if_operation
 		{
 			"image"		""
-			"fillcolor"	"MainBackground"
 		}
 	}
 					
